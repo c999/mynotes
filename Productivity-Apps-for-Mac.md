@@ -7,7 +7,7 @@
 
 
 ## Tier 1
-### Launcher/Search/Clipboard/... - Raycast
+### Launcher/Search/Clipboard/Snippets/QuickLinks... - Raycast
 ### Terminal - Warp
 ### Programming/IDE - VS Code
 ### PDF Viewer - PDF Expert
